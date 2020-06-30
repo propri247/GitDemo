@@ -15,4 +15,10 @@ public class Day3Test {
 	{
 		System.out.println("Opera");
 	}
+	
+	@Test
+	public void Chrome()
+	{
+		System.out.println("Chrome");
+	}
 }

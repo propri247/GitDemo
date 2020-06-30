@@ -15,4 +15,10 @@ public class Day2Test {
 	{
 		System.out.println("Wordpad");
 	}
+	
+	@Test
+	public void Excel()
+	{
+		System.out.println("Excel");
+	}
 }

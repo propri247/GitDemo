@@ -16,4 +16,11 @@ public class Day1Test{
 	{
 		System.out.println("Loadrunner");
 	}
+	
+	@Test
+	public void Jmeter()
+	{
+		System.out.println("Jmeter");
+	}
+	
 }
