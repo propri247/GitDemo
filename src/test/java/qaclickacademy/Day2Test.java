@@ -14,6 +14,7 @@ public class Day2Test {
 	public void Wordpad()
 	{
 		System.out.println("Wordpad");
+		System.out.println("Notepad");
 	}
 	
 	@Test

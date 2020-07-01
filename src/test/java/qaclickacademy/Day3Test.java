@@ -21,4 +21,10 @@ public class Day3Test {
 	{
 		System.out.println("Chrome");
 	}
+	
+	@Test
+	public void Safari()
+	{
+		System.out.println("Safari");
+	}
 }
