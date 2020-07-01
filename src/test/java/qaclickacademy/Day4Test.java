@@ -15,4 +15,10 @@ public class Day4Test {
 	{
 		System.out.println("Subway");
 	}
+	
+	@Test
+	public void KFC()
+	{
+		System.out.println("KFC");
+	}
 }

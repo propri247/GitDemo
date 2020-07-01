@@ -23,4 +23,10 @@ public class Day1Test{
 		System.out.println("Jmeter");
 	}
 	
+	@Test
+	public void QTP()
+	{
+		System.out.println("QTP");
+	}
+	
 }
